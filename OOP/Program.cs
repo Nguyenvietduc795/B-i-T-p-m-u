@@ -74,7 +74,7 @@ namespace OOP
             while (true)
             {
                 Console.WriteLine("\n=== TÀI KHOẢN NGÂN HÀNG ===");
-                Console.WriteLine("1) Danh sách  2) Nạp  3) Rút  4) Chuyển  5) Thoát  6) Nghỉ ");
+                Console.WriteLine("1) Danh sách  2) Nạp  3) Rút  4) Chuyển  5) Thoát  7) Nghỉ ");
                 Console.Write("Chọn: ");
                 string c = Console.ReadLine() ?? "";
 
